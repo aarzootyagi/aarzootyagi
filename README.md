@@ -167,7 +167,7 @@ const aarzoo = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=6C63FF&center=true&vCenter=true&width=750&lines=🚀+She+doesn't+just+write+code+—+she+architects+the+future%2C+one+commit+at+a+time.;⛓️+From+smart+contracts+to+stunning+UIs%2C+the+full+stack+is+her+playground.;🌐+Building+Web3+by+day%2C+debugging+dreams+by+night.;💡+Every+bug+is+a+lesson%2C+every+deploy+is+a+story+told." alt="Creative Quote" />
+### 💡 *"She doesn't just write code — she architects the future, one commit at a time."*
 
 <br/>
 
