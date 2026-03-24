@@ -3,10 +3,9 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aarzoo%20Tyagi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web3%20Explorer%20%7C%20Blockchain%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Profile Views + Trophies -->
+<!-- Profile Views -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=aarzootyagi&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aarzootyagi?label=Followers&style=for-the-badge&color=6c63ff" alt="followers" />
 </p>
 
 <!-- Typing SVG -->
@@ -18,19 +17,35 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="55%">
+
 ```javascript
 const aarzoo = {
   location: "India 🇮🇳",
   role: "Full Stack Developer",
-  currentlyBuilding: "Decentralized Platforms (Blockchain + Solidity) ⛓️",
-  currentlyLearning: ["Spring Boot 🍃", "Web3 🌐", "Solidity 📜"],
+  currentlyBuilding: "Decentralized Platforms ⛓️",
+  currentlyLearning: [
+    "Spring Boot 🍃",
+    "Web3 🌐",
+    "Solidity 📜"
+  ],
   lookingToCollaborate: "Full Stack & Web3 Projects",
-  askMeAbout: ["React ⚛️", "Node.js 🟢", "APIs", "MongoDB"],
-  portfolio: "https://aarzootyagi.github.io/my-portfolio/",
-  email: "aarzootyagi0202@gmail.com",
+  askMeAbout: ["React ⚛️", "Node.js 🟢", "APIs"],
+  portfolio: "aarzootyagi.github.io/my-portfolio",
   funFact: "I turn ☕ into decentralized apps!"
 };
 ```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="developer illustration" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -135,14 +150,6 @@ const aarzoo = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarzootyagi&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -160,8 +167,10 @@ const aarzoo = {
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=6C63FF&center=true&vCenter=true&width=750&lines=🚀+She+doesn't+just+write+code+—+she+architects+the+future%2C+one+commit+at+a+time.;⛓️+From+smart+contracts+to+stunning+UIs%2C+the+full+stack+is+her+playground.;🌐+Building+Web3+by+day%2C+debugging+dreams+by+night.;💡+Every+bug+is+a+lesson%2C+every+deploy+is+a+story+told." alt="Creative Quote" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=22&fontColor=ffffff&fontAlignY=72" />
 
 </div>
