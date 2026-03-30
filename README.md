@@ -131,7 +131,7 @@ const aarzoo = {
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aarzootyagi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+ 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarzootyagi&theme=tokyonight&hide_border=true" />
 
   <br/>
@@ -140,15 +140,7 @@ const aarzoo = {
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aarzootyagi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
 
 ## 🤝 Connect With Me
 
