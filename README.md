@@ -132,9 +132,6 @@ const aarzoo = {
 <div align="center">
 
  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarzootyagi&theme=tokyonight&hide_border=true" />
-
-  <br/>
 
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarzootyagi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
