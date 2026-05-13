@@ -4,9 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aarzoo%20Tyagi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web3%20Explorer%20%7C%20Blockchain%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Profile Views -->
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=aarzootyagi&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="profile views" />
-</p>
+</p> -->
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aarzoo+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Decentralized+Apps+%E2%9B%93;React+%7C+Node.js+%7C+Web3+%7C+Solidity;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
